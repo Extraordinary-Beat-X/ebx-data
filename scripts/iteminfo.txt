@@ -2,13 +2,33 @@
 // Health items
 //
 
+item item_health_mini
+{
+	pickupSound "sound/items/s_health.wav"
+	model "models/powerups/health/mini.md3"
+	iconName "icons/iconh_mini"
+	pickupName "1% Health"
+	quantity 1
+	type IT_HEALTH
+}
+
 item item_health_small
 {
 	pickupSound "sound/items/s_health.wav"
 	model "models/powerups/health/small.md3"
 	iconName "icons/iconh_small"
-	pickupName "5% Health"
-	quantity 5
+	pickupName "6% Health"
+	quantity 6
+	type IT_HEALTH
+}
+
+item item_health_smallmedium
+{
+	pickupSound "sound/items/s_health.wav"
+	model "models/powerups/health/smallmedium.md3"
+	iconName "icons/iconh_smallmedium"
+	pickupName "12% Health"
+	quantity 12
 	type IT_HEALTH
 }
 
@@ -17,8 +37,8 @@ item item_health
 	pickupSound "sound/items/n_health.wav"
 	model "models/powerups/health/medium.md3"
 	iconName "icons/iconh_medium"
-	pickupName "25% Health"
-	quantity 25
+	pickupName "24% Health"
+	quantity 24
 	type IT_HEALTH
 }
 
@@ -27,8 +47,8 @@ item item_health_large
 	pickupSound "sound/items/l_health.wav"
 	model "models/powerups/health/large.md3"
 	iconName "icons/iconh_large"
-	pickupName "50% Health"
-	quantity 50
+	pickupName "48% Health"
+	quantity 48
 	type IT_HEALTH
 }
 
@@ -37,8 +57,8 @@ item item_health_mega
 	pickupSound "sound/items/m_health.wav"
 	model "models/powerups/health/mega.md3"
 	iconName "icons/iconh_mega"
-	pickupName "100% Health"
-	quantity 100
+	pickupName "96% Health"
+	quantity 96
 	type IT_HEALTH
 }
 
