@@ -15,7 +15,7 @@
    id="svg2"
    style="display:inline;enable-background:new"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="b_flag2.svg"
+   sodipodi:docname="Shell_blue (copy).svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -32,8 +32,8 @@
      id="namedview3075"
      showgrid="false"
      inkscape:zoom="1.1835938"
-     inkscape:cx="239.93825"
-     inkscape:cy="244.56121"
+     inkscape:cx="159.09689"
+     inkscape:cy="208.1651"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -53,13 +53,12 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#204a87;fill-opacity:1;stroke:#000000;stroke-width:3.79429817;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 69.897149,1.8971457 0,508.2056943 440.205701,0 0,-508.2056943 z"
+     style="fill:#a40000;fill-opacity:1;stroke:#000000;stroke-width:3.79429816999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 69.897149,1.8971457 0,508.2056943 440.205701,0 0,-508.2056943 -440.205701,0 z M 414.26472,98.201251 485.23741,199.56741 432.88255,311.74514 309.61746,322.4942 238.70723,221.06554 290.99962,108.95031 414.26472,98.201251 z M 221.089,249.31308 l 52.04249,74.36852 -38.36025,82.24282 -90.40273,7.87433 -52.042486,-74.30603 38.360246,-82.30533 90.40273,-7.87431 z"
      id="rect3168"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     inkscape:connector-curvature="0" />
   <rect
-     style="fill:#204a87;fill-opacity:1;stroke:#000000;stroke-width:4.01058722;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#a40000;fill-opacity:1;stroke:#000000;stroke-width:4.01058721999999968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3938"
      width="66.98941"
      height="507.98944"
