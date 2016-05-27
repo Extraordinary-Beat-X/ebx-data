@@ -8,7 +8,7 @@ team_icon/Shell_red
 	surfaceparm nomarks
 	{
 		map team_icon/Shell_red.png
-		blendFunc Add
+		blendFunc add
 		rgbGen wave triangle 0.2 0.5 0 0.2
 	}
 }
@@ -21,7 +21,7 @@ team_icon/Shell_blue
 	surfaceparm nomarks
 	{
 		map team_icon/Shell_blue.png
-		blendFunc Add
+		blendFunc add
 		rgbGen wave triangle 0.2 0.5 0 0.2
 	}
 }
@@ -34,7 +34,7 @@ team_icon/Clover_red
 	surfaceparm nomarks
 	{
 		map team_icon/Clover_red.png
-		blendFunc Add
+		blendFunc add
 		rgbGen wave triangle 0.2 0.5 0 0.2
 	}
 }
@@ -47,7 +47,59 @@ team_icon/Clover_blue
 	surfaceparm nomarks
 	{
 		map team_icon/Clover_blue.png
-		blendFunc Add
+		blendFunc add
+		rgbGen wave triangle 0.2 0.5 0 0.2
+	}
+}
+
+team_icon/Katanas_red
+{
+	cull none
+	surfaceparm nolightmap
+	surfaceparm trans
+	surfaceparm nomarks
+	{
+		map team_icon/Katanas_red.png
+		blendFunc add
+		rgbGen wave triangle 0.2 0.5 0 0.2
+	}
+}
+
+team_icon/Katanas_blue
+{
+	cull none
+	surfaceparm nolightmap
+	surfaceparm trans
+	surfaceparm nomarks
+	{
+		map team_icon/Katanas_blue.png
+		blendFunc add
+		rgbGen wave triangle 0.2 0.5 0 0.2
+	}
+}
+
+team_icon/Sais_red
+{
+	cull none
+	surfaceparm nolightmap
+	surfaceparm trans
+	surfaceparm nomarks
+	{
+		map team_icon/Sais_red.png
+		blendFunc add
+		rgbGen wave triangle 0.2 0.5 0 0.2
+	}
+}
+
+team_icon/Sais_blue
+{
+	cull none
+	surfaceparm nolightmap
+	surfaceparm trans
+	surfaceparm nomarks
+	{
+		map team_icon/Sais_blue.png
+		blendFunc add
 		rgbGen wave triangle 0.2 0.5 0 0.2
 	}
 }
